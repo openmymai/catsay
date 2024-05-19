@@ -1,0 +1,13 @@
+[package]
+name = "catsay"
+version = "0.1.0"
+authors = ["Mai, Sirisak <maicmi@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+structopt = "0.3"
+colored = "2.1"
+failure = "0.1"
+exitfailure = "0.5"
+predicates = "3.1"
+assert_cmd = "2.0"

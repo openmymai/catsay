@@ -1,0 +1,4 @@
+   Compiling catsay v0.1.0 (/Users/mai/workspace/rust/rustapp/catsay)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.19s
+     Running `target/debug/catsay woof`
+A cat shouldn't bark like a dog.
