@@ -2,6 +2,8 @@
 name = "catsay"
 version = "0.1.0"
 authors = ["Mai, Sirisak <maicmi@gmail.com>"]
+description = "A Rust typical command-line program takes arguments, flags, and sometimes standard input and then executes its main algorithm and output to the standard output or file."
+license = "MIT"
 edition = "2021"
 
 [dependencies]
